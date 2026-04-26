@@ -1,0 +1,12 @@
+{
+  "name": "Joni AI",
+  "description": "Personalized AI-powered fitness coach for workout routines, diet analysis, and progress tracking with computer vision physique analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-Powered Personalization",
+    "Computer Vision Physique Analysis",
+    "Real-time Progress Tracking"
+  ]
+}
